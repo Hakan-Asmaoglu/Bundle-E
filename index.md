@@ -1,6 +1,6 @@
 # The Lord of the Rings
 
-<img src="https://i.redd.it/bysiiwdexn521.png" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/>
+<img src="https://i.redd.it/bysiiwdexn521.png" alt="MarineGEO circle logo" style="height: 500px; width:800px;"/>
 
 Welcome to the world of J.R.R. Tolkien's epic fantasy saga, "The Lord of the Rings." Here, you'll find information about the books, the movies, and the rich lore of Middle-earth.
 
@@ -26,7 +26,7 @@ Peter Jackson brought "The Lord of the Rings" to life in a cinematic masterpiece
 - [The Two Towers](https://www.imdb.com/title/tt0167261/)
 - [The Return of the King](https://www.imdb.com/title/tt0167260/)
 
-<img src="https://i.redd.it/zff4aae3y0961.jpg" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="https://i.redd.it/zff4aae3y0961.jpg" alt="MarineGEO circle logo" style="height: 500px; width:500px;"/>
 
 ## Characters
 
@@ -66,4 +66,4 @@ For further reading and exploration, here are some additional resources:
 
 Enjoy your journey through the enchanting world of "The Lord of the Rings"!
 
-<img src="https://programmerhumor.io/wp-content/uploads/2021/09/programmerhumor-io-stackoverflow-memes-programming-memes-13d7469e42dd42f-758x689.jpg" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="https://programmerhumor.io/wp-content/uploads/2021/09/programmerhumor-io-stackoverflow-memes-programming-memes-13d7469e42dd42f-758x689.jpg" alt="MarineGEO circle logo" style="height: 500px; width:500px;"/>
