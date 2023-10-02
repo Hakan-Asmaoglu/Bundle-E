@@ -1,5 +1,7 @@
 # The Lord of the Rings
 
+![The Lord of the Rings](https://example.com/lotr.jpg)
+
 Welcome to the world of J.R.R. Tolkien's epic fantasy saga, "The Lord of the Rings." Here, you'll find information about the books, the movies, and the rich lore of Middle-earth.
 
 ## Books
@@ -24,17 +26,21 @@ Peter Jackson brought "The Lord of the Rings" to life in a cinematic masterpiece
 - [The Two Towers](https://www.imdb.com/title/tt0167261/)
 - [The Return of the King](https://www.imdb.com/title/tt0167260/)
 
+![Movie Poster](https://example.com/movie_poster.jpg)
+
 ## Characters
 
 Explore the diverse characters who play pivotal roles in the story:
 
-- Frodo Baggins
-- Aragorn
-- Legolas
-- Gimli
-- Gandalf
-- Gollum
-- and many more...
+| Character        | Description            |
+| ---------------- | ---------------------- |
+| Frodo Baggins    | The Ring-bearer        |
+| Aragorn          | The Ranger and King    |
+| Legolas          | The Elven Archer       |
+| Gimli            | The Dwarven Warrior    |
+| Gandalf          | The Wise Wizard        |
+| Gollum           | The Former Ring-bearer |
+| and many more... |                        |
 
 ## Places
 
