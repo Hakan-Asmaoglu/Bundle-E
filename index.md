@@ -1,6 +1,6 @@
 # The Lord of the Rings
 
-![The Lord of the Rings](https://example.com/lotr.jpg)
+!(https://i.redd.it/bysiiwdexn521.png)
 
 Welcome to the world of J.R.R. Tolkien's epic fantasy saga, "The Lord of the Rings." Here, you'll find information about the books, the movies, and the rich lore of Middle-earth.
 
@@ -26,7 +26,7 @@ Peter Jackson brought "The Lord of the Rings" to life in a cinematic masterpiece
 - [The Two Towers](https://www.imdb.com/title/tt0167261/)
 - [The Return of the King](https://www.imdb.com/title/tt0167260/)
 
-![Movie Poster](https://example.com/movie_poster.jpg)
+!(https://i.redd.it/zff4aae3y0961.jpg)
 
 ## Characters
 
@@ -65,3 +65,5 @@ For further reading and exploration, here are some additional resources:
 - [Tolkien Gateway](https://tolkiengateway.net/wiki/Main_Page)
 
 Enjoy your journey through the enchanting world of "The Lord of the Rings"!
+
+!(https://programmerhumor.io/wp-content/uploads/2021/09/programmerhumor-io-stackoverflow-memes-programming-memes-13d7469e42dd42f-758x689.jpg)
